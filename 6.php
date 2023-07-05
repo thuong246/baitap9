@@ -92,7 +92,6 @@ $clock->increaseSecond();
 $newTime = $clock->displayTime();
 echo "Time after increasing second: " . $newTime . "<br>";
 //Bai5: Tạo lớp danh sách sinh viên
-<?php
 echo "Câu 5: ";
 class Student{
     protected $code, $fullName, $list;
