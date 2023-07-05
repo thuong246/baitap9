@@ -25,7 +25,6 @@ $point2 = new point2D(0, 1);
  $distance = $point1->calDistance($point2);
  echo "Khoảng cách là: " . $distance;
 //Bai3: Tạo lớp Mảng
-<?php
 class IntegerArray {
     private $array;
   
